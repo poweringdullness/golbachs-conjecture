@@ -31,4 +31,4 @@ Feel free to contribute! Fork this repo, make your changes, and create a pull re
 ## License
 
 This project is open-source and free to use. <br> 
-Currently NO LICENSE.
+Currently under the MIT license.
